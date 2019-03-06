@@ -1,0 +1,8 @@
+{
+  "name": "konabbq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bls-studio/konabbq.git",
+  "author": "blake-swl <seulwoolee93@gmail.com>",
+  "license": "MIT"
+}
